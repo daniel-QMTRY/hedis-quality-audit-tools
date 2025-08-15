@@ -1,6 +1,3 @@
-# hedis-quality-audit-tools
-Anonymized HEDIS audit toolkit using SQL + Python for chart reviews, NCQA compliance, and measure tracking.
-
 # HEDIS Quality Audit Tools 🧾📊
 
 A Python- and SQL-based framework for streamlining HEDIS quality audits, aligning chart review processes with NCQA guidelines using de-identified clinical and claims data.
