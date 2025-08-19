@@ -59,7 +59,7 @@ For live deployments, align with HIPAA, CMS, and organization policies.
 
 ## 🤝 Contact
 
-**Daniel Allen, RN, MBA**  
+**Daniel Allen, MBA, MSHI, SSBB**  
 Founder @ [QMTRY.ai](https://qmtry.ai)  
 📧 [daniel@qmtry.ai](mailto:daniel@qmtry.ai)  
 🐙 [GitHub](https://github.com/daniel-QMTRY)  
